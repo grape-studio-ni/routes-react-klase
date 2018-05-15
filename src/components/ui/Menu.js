@@ -40,11 +40,11 @@ export default class Menu extends Component {
                 <li className="nav-item">
                   <a className="nav-link navbar_font_color" href="#"><i className="fal fa-cloud-download fa-lg"/> Descarga</a>
                 </li>
-
               </ul>
             </div>
           </div>
         </nav>
+
       </div>
     )
   }

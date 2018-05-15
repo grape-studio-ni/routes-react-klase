@@ -18,8 +18,8 @@ const paths = {
     dest: 'src/assets/bootstrap'
   },
   fonts: {
-    src: 'node_modules/fontawesome-pro/web-fonts-with-css/**/*',
-    dest: 'public/awesome'
+    src: 'node_modules/fontawesome-pro/web-fonts-with-css/webfonts/**/*',
+    dest: 'public/webfonts'
   }
 }
 

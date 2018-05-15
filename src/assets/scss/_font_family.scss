@@ -4,8 +4,31 @@
   font-family: 'Google Sans',Roboto,Helvetica,Arial,sans-serif;
   font-size: 14px;
   //letter-spacing: .15px;
-  //color: #5f6368;
+  color: #5f6368;
   font-weight: 500;
   letter-spacing: 0;
-  color: #d93025;
+ // color: #d93025;
+
+  i {
+   // margin: 0 16px;
+    margin: 0 8px;
+  }
+
+  /*&:before {
+    background-color: #d93025;
+    background-color: #1a73e8;
+    background-color: #1e8e3e;
+    background-color: #fa7b17;
+    background-color: #a142f4;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    bottom: 0;
+    content: '';
+    display: block;
+    height: 3px;
+    left: 0;
+    margin: 0 8px;
+    position: absolute;
+    right: 0;
+  }*/
 }
